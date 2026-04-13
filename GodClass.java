@@ -34,7 +34,7 @@ public class GodClass {
                 System.out.println("No input");
             }
         }
-        // Variables poco descriptivas
+        // Variables poco descriptivas  ffff
         int a = 0;
         int b = 1;
         int c = a + b;
